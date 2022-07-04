@@ -27,12 +27,15 @@ section {
 }
 
 .half-of-width img {
-    width: 60%;
+    width: 85%;
     padding-right: 5%;
     padding-top: 10%;
 }
 
 .link-button {
-    background-color: brown;
-
+    background-image: linear-gradient(orange, red);
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
 }
