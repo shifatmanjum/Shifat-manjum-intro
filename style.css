@@ -27,5 +27,7 @@ section {
 }
 
 .half-of-width img {
-    width: 10%;
+    width: 60%;
+    padding-right: 5%;
+    padding-top: 10%;
 }
