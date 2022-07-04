@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text span {
+    color: brown;
+    font-size: 25px;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+.text {
+    font-size: 25px;
+}
+
+section {
+    display: flex;
+
+}
+
+.half-of-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half-of-width img {
+    width: 10%;
+}
