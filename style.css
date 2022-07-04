@@ -57,3 +57,13 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.third-part h1 {
+    color: black;
+    padding-left: 5%;
+}
+
+
+.second-half-of-width {
+    padding-top: 200px;
+}
