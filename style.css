@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 .text span {
@@ -17,6 +18,7 @@ h3 {
 
 section {
     display: flex;
+    margin-bottom: 70px;
 
 }
 
@@ -27,9 +29,9 @@ section {
 }
 
 .half-of-width img {
-    width: 85%;
+    width: 50%;
     padding-right: 5%;
-    padding-top: 10%;
+    padding-top: 1%;
 }
 
 .link-button {
@@ -38,4 +40,20 @@ section {
     text-decoration: none;
     padding: 5px 20px;
     border-radius: 5px;
+}
+
+.first-part {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    padding: 0%;
+}
+
+.second-part h1 {
+    color: black;
+}
+
+.second-part {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
